@@ -1,2 +1,1 @@
-# ContinousIntegrationWorkshop
-Workshop Software Engineer
+# CONTINUOUS INTEGRATION WORKSHOP 
